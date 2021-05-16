@@ -3,7 +3,7 @@
 
 
 - 👋 My name is Thomas Tai (He/Him)
-- 💻 I work at [Findigs](findigs.com) as a Frontend Engineer
+- 💻 I work at [Findigs](https://findigs.com) as a Frontend Engineer
 -  📍Places I have lived: New York City 🇺🇸 / Shanghai 🇨🇳 / Taiwan 🇹🇼
 - 📣 Languages I can speak: English & Chinese
 - 📫 You can reach me at [me@thomastai.com](mailto:me@thomastai.com)
