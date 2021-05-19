@@ -1,5 +1,5 @@
 
-## About Me  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100">
+## About Me  <img src="https://thumbs.gfycat.com/CalculatingAnchoredGentoopenguin.webp" width="100">
 
 
 - 👋 My name is Thomas Tai (He/Him)
