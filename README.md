@@ -2,7 +2,7 @@
 ## About Me  <img src="https://thumbs.gfycat.com/CalculatingAnchoredGentoopenguin.webp" width="100">
 
 
-- 👋 My name is Thomas Tai (He/Him)
+- 👋 My name is Thomas Tai (He/Him) - [My Portfolio](thomastai.com)
 - 💻 I work at [Findigs](https://findigs.com) as a Software Engineer
 -  📍Places I have lived: New York City 🇺🇸 / Shanghai 🇨🇳 / Taiwan 🇹🇼
 - 📣 Languages I can speak: English & Chinese
