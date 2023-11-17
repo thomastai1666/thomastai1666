@@ -1,5 +1,5 @@
 
-## About Me  <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" height="75">
+## About Me  <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" height="75">
 
 
 - 👋 My name is Thomas Tai (He/Him) - [My Portfolio](https://thomastai.com)
