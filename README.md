@@ -1,5 +1,5 @@
 
-## About Me  <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" height="75">
+## <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" height="65"> About Me 
 
 
 - 👋 My name is Thomas Tai (He/Him) - [My Portfolio](https://thomastai.com)
