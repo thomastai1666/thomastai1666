@@ -3,7 +3,7 @@
 
 
 - 👋 My name is Thomas Tai (He/Him) - [My Portfolio](https://thomastai.com)
-- 💻 I work at [Findigs](https://findigs.com) as a Software Engineer
+- 💻 I work as a Software Engineer
 -  📍Places I have lived: New York City 🇺🇸 / Shanghai 🇨🇳 / Taiwan 🇹🇼
 - 📣 Languages I can speak: English & Chinese
 - 📫 You can reach me at [me@thomastai.com](mailto:me@thomastai.com)
